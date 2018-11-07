@@ -1,11 +1,55 @@
 h1{
     color:gold;
 }
+ 
+ h2{
+     color:gold;
+ }
+ 
+ h6{
+     color:gold;
+ }
+ 
+ h5{
+     color:gold;
+ }
+ 
+ h4{
+     color:gold;
+ }
+ 
+h3{
+    display:flex;
+    justify-content:center;
+}
 
+.platanito{
+    height:200px;
+    width:400px;
+}
+
+.drunkman{
+    height:200px;
+    width:400px;
+}
+ 
+.pic{
+    height:200px;
+    width:400px;
+    } 
 body{
     background-color:black;
 }
 
 p{
     color:gold;
+}
+
+div{
+    display:flex;
+    justify-content:center;
+}
+
+.a{
+    text-align:center;
 }
